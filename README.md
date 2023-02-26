@@ -1,2 +1,2 @@
-# Conconutional-nerual-netwrok
+# Convonutional-nerual-netwrok
 cnnProjects
